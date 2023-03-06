@@ -1,7 +1,7 @@
 # About Me:
 My name is Gabe Hug and I am a frontend developer.<br>I have a B.S. in Computer Science with minors in Photography and Sustainability Management from Loyola University of Chicago. 
 
-🛠️ I'm currently working with React to create functional webpages<br>💡 I'm currently learning SQL and the basics for back-end development<br>🎯 My goal for 2023 is to be more comfortable working with the back-end <br>💼 I'm currently looking for a full-time position<br>☕️ I love coffee, taking photographs, and being outside!<br>
+🛠️ I'm currently working with React to create functional webpages<br>💡 I'm currently learning SQL and the basics for back-end development<br>🎯 My goal for 2023 is to be more comfortable working with the back-end <br>💼 I'm currently looking for a full-time position. If you want to hire me please send me an [email!](mailto:gaberhug@gmail.com)<br>☕️ I love coffee, taking photographs, and being outside!<br>
 
 
 ## Lets Connect:
