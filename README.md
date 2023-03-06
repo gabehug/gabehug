@@ -7,6 +7,8 @@ My name is Gabe Hug and I am a frontend developer.<br>I have a B.S. in Computer 
 ## Lets Connect:
 [![Website](https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F%20-Website-grey)](https://blankpagedesign.org)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-hug-75946796)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shutter_hug) 
 
+<p>Send me an <a href="mailto:gabrielhug@blankpagedesign.org">Email</a></p>
+
 ---
 
 # 💻 Tech Stack:
@@ -26,5 +28,3 @@ My name is Gabe Hug and I am a frontend developer.<br>I have a B.S. in Computer 
 
 ## ☕️ Buy me a coffee!
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/gabrielhug) 
-
-<p>Send me an <a href="mailto:gabrielhug@blankpagedesign.org">Email</a></p>
