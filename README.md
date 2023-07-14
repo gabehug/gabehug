@@ -28,7 +28,6 @@ My name is Gabe Hug and I am a frontend developer.<br>I have a B.S. in Computer 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gabehug&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gabehug&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabehug&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
