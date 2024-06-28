@@ -1,7 +1,7 @@
 # About Me:
-My name is Gabe Hug and I am a frontend developer.<br>I have a B.S. in Computer Science with minors in Photography and Sustainability Management from Loyola University of Chicago. 
+My name is Gabe Hug and I am a frontend developer.<br>I am currently working for Loyola University Chicago as a Web Designer, creating functional website to facilitate Graduate Student Success. 
 
-🛠️ I'm currently working with React to create functional webpages<br>💡 I am in the process of learning Ruby on Rails to expand my understanding of fullstack websites <br>🎯 My goal for 2023 is to be more comfortable working with the back-end <br>💼 I'm currently a Web Designer at Loyola University Chicago<br>☕️ I love coffee, taking photographs, and being outside!<br>
+🛠️ I'm currently working with React and Next.js to create functional webpages<br>💡 I am in the process of learning Ruby on Rails to expand my understanding of fullstack websites <br>🎯 My goal for 2024 is to build, build, build!<br>💼 I'm currently a Web Designer at Loyola University Chicago<br>☕️ I love coffee, taking photographs, and being outside!<br>
 
 
 ## Lets Connect:
