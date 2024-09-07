@@ -1,7 +1,7 @@
 # About Me:
-My name is Gabe Hug and I am a frontend developer.<br>I am currently working for Loyola University Chicago as a Web Designer, creating functional website to facilitate Graduate Student Success. 
+My name is Gabe Hug and I am a Web Developer.<br>I am currently working for Baker Tilly US as a consultant, building full stack Python applications with Anvil.
 
-🛠️ I'm currently working with React and Next.js to create functional webpages<br>💡 I am in the process of learning Ruby on Rails to expand my understanding of fullstack websites <br>🎯 My goal for 2024 is to build, build, build!<br>💼 I'm currently a Web Designer at Loyola University Chicago<br>☕️ I love coffee, taking photographs, and being outside!<br>
+🛠️ I'm currently working with React and Next.js to create functional webpages<br>💡 I am in the process of learning Ruby on Rails to expand my understanding of fullstack websites <br>🎯 My goal for 2024 is to build, build, build!<br>💼 I'm currently working for Baker Tilly US<br>☕️ I love coffee, taking photographs, and being outside!<br>
 
 
 ## Lets Connect:
